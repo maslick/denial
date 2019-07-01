@@ -1,0 +1,4 @@
+rootProject.name = 'denial'
+
+include "cli"
+include "server"
