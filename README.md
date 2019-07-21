@@ -3,7 +3,7 @@ a simple REST API with rate limiting capabilities (see [specifications](ASSIGNME
 
 ## Features
 * Kotlin, gradle
-* Server leverages SpringBoot 2
+* SpringBoot 2
 * Reactive runtime (Netty)
 * [Unit tests](server/src/test/java/io/maslick/denial/server/IntegrationTest.kt)
 
